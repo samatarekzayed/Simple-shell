@@ -1,6 +1,6 @@
 # Simple Shell (Multi-Processing)
 
-![Shell](shell.png)
+![image](https://user-images.githubusercontent.com/96790595/225076289-0aa874cd-5502-4f2c-9608-bc9bbc8ec686.png)
 
 ## 1. Objectives
 
